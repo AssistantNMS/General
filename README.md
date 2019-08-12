@@ -11,7 +11,7 @@ If you would like to help add languages to the app please make a pull request in
 
 ## Builds
 The app is built and release to Google Play using CodeMagic
-- Build: [![Codemagic build status](https://api.codemagic.io/apps/5d51243f7cd3a5001019b1e9/5d51243f7cd3a5001019b1e8/status_badge.svg)](https://codemagic.io/apps/5d51243f7cd3a5001019b1e9/5d51243f7cd3a5001019b1e8/latest_build)
+- Build: [![Codemagic build status](https://api.codemagic.io/apps/5d51439ccb003200139711f6/5d51439ccb003200139711f5/status_badge.svg)](https://codemagic.io/apps/5d51439ccb003200139711f6/5d51439ccb003200139711f5/latest_build)
 
 The Website is built and deployed using Azure DevOps
 - Build: [![Build Status](https://dev.azure.com/khaoznet/KhaozNet/_apis/build/status/NoMansSky.Recipes.Web%20-%20CI?branchName=master)](https://dev.azure.com/khaoznet/KhaozNet/_build/latest?definitionId=31&branchName=master)
