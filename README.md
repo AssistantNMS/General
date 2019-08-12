@@ -6,6 +6,7 @@
 
 ## Feature Requests / Issues / Bugs
 Please feel free to let me know if there is an issue with the App by logging an issue here or sending an [email](mailto:hi@kurtlourens.com).
+
 If you would like to help add languages to the app please make a pull request into this [repository](https://github.com/NoMansSkyRecipes/Languages) or send an [email](mailto:hi@kurtlourens.com).
 
 ## Builds
