@@ -1,8 +1,8 @@
 # NoMansSkyRecipes 
 ### General management around the App
 
-[Website](https://nomanssky.kurtlourens.com)
-[Google Play](https://play.google.com/store/apps/details?id=com.kurtlourens.no_mans_sky_recipes, "Google Play")
+- [Website](https://nomanssky.kurtlourens.com)
+- [Google Play](https://play.google.com/store/apps/details?id=com.kurtlourens.no_mans_sky_recipes, "Google Play")
 
 ## Feature Requests / Issues / Bugs
 Please feel free to let me know if there is an issue with the App by logging an issue here or sending an [email](mailto:hi@kurtlourens.com).
