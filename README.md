@@ -1,17 +1,17 @@
-# NoMansSkyRecipes 
+# No Man's Sky Assistant
 ### General management around the App
 
 - [Website](https://nomanssky.kurtlourens.com)
 - [Google Play](https://play.google.com/store/apps/details?id=com.kurtlourens.no_mans_sky_recipes, "Google Play")
 
 ## Feature Requests / Issues / Bugs
-Please feel free to let me know if there is an issue with the App by logging an issue here or sending an [email](mailto:hi@kurtlourens.com).
+Please feel free to let me know if there is an issue with the App by logging an issue here or sending an [email](mailto:nms@kurtlourens.com).
 
-If you would like to help add languages to the app please make a pull request into this [repository](https://github.com/NoMansSkyRecipes/Languages) or send an [email](mailto:hi@kurtlourens.com).
+If you would like to help add languages to the app please make a pull request into this [repository](https://github.com/NoMansSkyAssistant/Languages) or send an [email](mailto:nms@kurtlourens.com).
 
 ## Builds
 The app is built and release to Google Play using CodeMagic
-- Build: [![Codemagic build status](https://api.codemagic.io/apps/5d51439ccb003200139711f6/5d51439ccb003200139711f5/status_badge.svg)](https://codemagic.io/apps/5d51439ccb003200139711f6/5d51439ccb003200139711f5/latest_build)
+- Build: [![Codemagic build status](https://api.codemagic.io/apps/5d9da9057a0a9500105180bf/5d9da9057a0a9500105180be/status_badge.svg)](https://codemagic.io/apps/5d9da9057a0a9500105180bf/5d9da9057a0a9500105180be/latest_build)
 
 The Website is built and deployed using Azure DevOps
 - Build: [![Build Status](https://dev.azure.com/khaoznet/KhaozNet/_apis/build/status/NoMansSky.Recipes.Web%20-%20CI?branchName=master)](https://dev.azure.com/khaoznet/KhaozNet/_build/latest?definitionId=31&branchName=master)
