@@ -14,8 +14,10 @@ Please feel free to let me know if there is an issue with the App by logging an 
 If you would like to help add languages to the app please make a pull request into this [repository](https://github.com/NoMansSkyAssistant/Languages) or send an [email](mailto:nms@kurtlourens.com).
 
 ## Builds
-The app is built and release to Google Play using CodeMagic
-- [![Codemagic build status](https://api.codemagic.io/apps/5d9da9057a0a9500105180bf/5da07d2e7338b0000f046ba3/status_badge.svg)](https://codemagic.io/apps/5d9da9057a0a9500105180bf/5da07d2e7338b0000f046ba3/latest_build) - Android (Production)
+The app is built and release to Google Play using CodeMagic 
+
+- [![Codemagic build status](https://api.codemagic.io/apps/5d9da9057a0a9500105180bf/5da07d2e7338b0000f046ba3/status_badge.svg)](https://codemagic.io/apps/5d9da9057a0a9500105180bf/5da07d2e7338b0000f046ba3/latest_build) - Android & iOS (Production)
+- [![Codemagic build status](https://api.codemagic.io/apps/5d9da9057a0a9500105180bf/5e180f76d95f1f258ec86619/status_badge.svg)](https://codemagic.io/apps/5d9da9057a0a9500105180bf/5da07d2e7338b0000f046ba3/latest_build) - Android (Production)
 - [![Codemagic build status](https://api.codemagic.io/apps/5d9da9057a0a9500105180bf/5d9da9057a0a9500105180be/status_badge.svg)](https://codemagic.io/apps/5d9da9057a0a9500105180bf/5d9da9057a0a9500105180be/latest_build) - Android (Alpha)
 - [![Codemagic build status](https://api.codemagic.io/apps/5d9da9057a0a9500105180bf/5d9dc56b7a0a95000a475d84/status_badge.svg)](https://codemagic.io/apps/5d9da9057a0a9500105180bf/5d9dc56b7a0a95000a475d84/latest_build) - iOS Build
 
