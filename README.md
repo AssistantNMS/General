@@ -1,15 +1,17 @@
 # Assistant for No Man's Sky
 ### General management around the App
 
+#### Apps
 - [Website](https://nmsassistant.com)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.kurtlourens.no_mans_sky_recipes, "Google Play Store")
 - [Apple App Store Store](https://apps.apple.com/us/app/assistant-for-no-mans-sky/id1480287625, "Apple App Store")
 
+#### Social
 - [Twitter](https://twitter.com/AssistantNMS?ref=nmsAssistant)
 - [Discord](https://discord.gg/q3aFBQM?ref=nmsAssistant)
-- [Facebook] (https://facebook.com/AssistantNMS)
-- [Steam Community Page] (https://steamcommunity.com/groups/AssistantNMS)
-- [NoMansSky Social] (https://nomanssky.social/AssistantNMS)
+- [Facebook](https://facebook.com/AssistantNMS)
+- [Steam Community Page](https://steamcommunity.com/groups/AssistantNMS)
+- [NoMansSky Social](https://nomanssky.social/AssistantNMS)
 
 ## Feature Requests / Issues / Bugs
 Please feel free to let me know if there is an issue with the App by logging an issue here or sending an [email](mailto:nms@kurtlourens.com).
