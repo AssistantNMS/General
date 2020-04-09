@@ -8,7 +8,7 @@
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.kurtlourens.no_mans_sky_recipes, "Google Play Store")
 - [Apple App Store Store](https://apps.apple.com/us/app/assistant-for-no-mans-sky/id1480287625, "Apple App Store")
 - [WebApp (Still in development)](https://app.nmsassistant.com)
-
+- [Roadmap](https://trello.com/b/uPK72lBq/assistantnms-guide-roadmap)
 #### Social
 - [Reddit](https://reddit.com/r/AssistantNMS?ref=github)
 - [Discord](https://discord.gg/q3aFBQM?ref=github)
