@@ -6,7 +6,7 @@
 #### Apps
 - [Website](https://nmsassistant.com)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.kurtlourens.no_mans_sky_recipes, "Google Play Store")
-- [Apple App Store Store](https://apps.apple.com/us/app/assistant-for-no-mans-sky/id1480287625, "Apple App Store")
+- [Apple App Store](https://apps.apple.com/us/app/assistant-for-no-mans-sky/id1480287625, "Apple App Store")
 - [WebApp (Still in development)](https://app.nmsassistant.com)
 - [Roadmap](https://trello.com/b/uPK72lBq/assistantnms-guide-roadmap)
 #### Social
@@ -26,7 +26,6 @@ If you would like to help add languages to the app please make a pull request in
 ## Builds
 The Mobile Apps are built and released to the [Google Play Store](https://play.google.com/store/apps/details?id=com.kurtlourens.no_mans_sky_recipes, "Google Play") and [Apple App Store Store](https://apps.apple.com/us/app/assistant-for-no-mans-sky/id1480287625, "Apple App Store") using CodeMagic 
 
-- [![Codemagic build status](https://api.codemagic.io/apps/5d9da9057a0a9500105180bf/5da07d2e7338b0000f046ba3/status_badge.svg)](https://codemagic.io/apps/5d9da9057a0a9500105180bf/5da07d2e7338b0000f046ba3/latest_build) - Android & iOS (Production)
 - [![Codemagic build status](https://api.codemagic.io/apps/5d9da9057a0a9500105180bf/5e180f76d95f1f258ec86619/status_badge.svg)](https://codemagic.io/apps/5d9da9057a0a9500105180bf/5da07d2e7338b0000f046ba3/latest_build) - Android (Production)
 - [![Codemagic build status](https://api.codemagic.io/apps/5d9da9057a0a9500105180bf/5d9da9057a0a9500105180be/status_badge.svg)](https://codemagic.io/apps/5d9da9057a0a9500105180bf/5d9da9057a0a9500105180be/latest_build) - Android (Alpha)
 - [![Codemagic build status](https://api.codemagic.io/apps/5d9da9057a0a9500105180bf/5d9dc56b7a0a95000a475d84/status_badge.svg)](https://codemagic.io/apps/5d9da9057a0a9500105180bf/5d9dc56b7a0a95000a475d84/latest_build) - iOS Build
